@@ -3,9 +3,10 @@ This repository is all the documentation and examples for Javascript testing
 
 
 Testing Piramide
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/ff_400jose/Desktop/Screenshot%202023-04-20%20at%2012.09.58%20AM.png?version%3D1681971033483)
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/ff_400jose/Desktop/Screenshot%202023-04-20%20at%2012.09.50%20AM.png?version%3D1681971050473)
 
+<img width="630" alt="piramide 1" src="https://user-images.githubusercontent.com/7077767/233493432-7c1bb7e9-a24e-42e1-892e-24bec0f035f1.png">
+
+<img width="635" alt="piramide 2 png" src="https://user-images.githubusercontent.com/7077767/233493480-d88dc039-c607-4b01-b1bd-2802795b32a5.png">
 
 
 General Testing
